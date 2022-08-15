@@ -29,6 +29,8 @@
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/oracle.svg' alt='oracle' height='40'>
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linux.svg' alt='linux' height='40'>
 </div>
+  
+
 
 ### Contato
 <div> 
