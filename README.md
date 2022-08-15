@@ -19,10 +19,15 @@
 </div>
 
 ### Tecnologias
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/powerbi.svg' alt='powerbi' height='40'>](.)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/jupyter.svg' alt='jupyter' height='40'>](.)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/visualstudiocode.svg' alt='visualstudiocode' height='40'>](.)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mysql.svg' alt='mysql' height='40'>](.)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postgresql.svg' alt='postgresql' height='40'>](.)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/oracle.svg' alt='oracle' height='40'>](.)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linux.svg' alt='linux' height='40'>](.)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='40'>](.)
-
 <div>
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='40'>
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/visualstudiocode.svg' alt='visualstudiocode' height='40'>
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/jupyter.svg' alt='jupyter' height='40'>
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/powerbi.svg' alt='powerbi' height='40'>
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mysql.svg' alt='mysql' height='40'>
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postgresql.svg' alt='postgresql' height='40'>
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/oracle.svg' alt='oracle' height='40'>
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linux.svg' alt='linux' height='40'>
 </div>
 
 ### Contato
