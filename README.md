@@ -2,6 +2,8 @@
 
 💼 Atualmente sou Analista de Dados
 
+📊 Faço dashboards de B.I
+
 👨🏽‍🎓 Sou Bacharel em Ciência da Computação
 
 🐍 Adoro programar em Python
