@@ -4,13 +4,13 @@
 
 👨🏽‍🎓 Sou Bacharel em Ciência da Computação
 
-🐍 Python foi amor a primeira vista
+🐍 Adoro programar em Python
 
-📚 Estou sempre em busca de mais conhecimentos na área de dados
+📚 Estou sempre em busca de mais conhecimentos
 
 🎮 Gosto muito de vídeo-game
 
-⚽ Sou corinthiano
+⚽ Sou Corinthiano
 
 <div align="left">
   <a href="https://github.com/luisotaviocap98">
